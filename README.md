@@ -1,8 +1,10 @@
 To start with the screencast:
 
+```
 git clone https://github.com/devmentorlive/8d406076.git
 cd 8d406076
 git checkout start-here
+```
 
 Today I show you how to build a DataTable using ReactJS, how to load the data from a remote JSON API, and how to add searching/filtering to it and how to make the searched columns selectable by a user. And all of this in under 30 minutes!
 
